@@ -1,5 +1,5 @@
 ## Portfolio.basic-website
-A simple personal portfolio built using *HTML* and  *CSS*.  
+  Welcome to my portfolio website . A simple two-page site includes homepage and contact page . It was built using *HTML* and  *CSS*.  
 
 This project includes the following pages:
 
